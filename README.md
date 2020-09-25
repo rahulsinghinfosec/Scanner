@@ -4,6 +4,7 @@ These are basic scanners.
 They can check the number of devices connected to your network and print their local IP addresses along with their MAC addresses.
 
 1. Sniff_Tool.py
+_________________
 
 I have used argparse and scapy to make this basic network scanner.
 
@@ -20,6 +21,7 @@ They can be installed with :
    pip install scapy
 
 2. Sniff_Tool2.py
+__________________
 
 I have used sys and scapy to build this basic network scanner.
 

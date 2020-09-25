@@ -8,7 +8,7 @@ _________________
 
 I have used argparse and scapy to make this basic network scanner.
 
-   Syntax : Syntax : python <filename> -ip <IP>/<Subnet>
+Syntax : python <filename> -ip <IP>/<Subnet>
 
 [NOTE : Use it with root/administrative priviledges]
 
@@ -27,7 +27,7 @@ I have used sys and scapy to build this basic network scanner.
 
 Call it from the command line using root/admin privileges
 
-   Syntax : python <file_name> <ip_address>/<subnet>
+Syntax : python <file_name> <ip_address>/<subnet>
 
 Note : Put Your IP address, so that all the responses will be sent to you.
 Scapy can be installed with : 

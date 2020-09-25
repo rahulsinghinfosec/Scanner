@@ -8,7 +8,7 @@ _________________
 
 I have used argparse and scapy to make this basic network scanner.
 
-[Syntax : python file_name -ip ip_address/subnet]
+[Syntax : python &lt;file_name&gt; -ip ip_address/subnet]
 
 [NOTE : Use it with root/administrative priviledges]
 

@@ -7,7 +7,7 @@ parser = argparse.ArgumentParser()
 # call it from the command line using root/admin privileges
 # Syntax : python <filename> -ip <IP>/<Subnet>
 # e.g. sudo Sniff_Tool.py -ip 172.16.24.1/24
-# Note : Put your IP address, so that all the responses will be sent to you.
+# Note : Put the ip address of your default gateway(router).
 parser.add_argument("-ip", "--ipadd", help="IP Address/Subnet Mask")
 args = parser.parse_args()
 
